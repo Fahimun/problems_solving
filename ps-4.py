@@ -8,3 +8,4 @@ area = (45*22) / 2
 print(f"{area}")
 
 
+
