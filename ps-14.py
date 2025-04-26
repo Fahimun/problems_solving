@@ -1,0 +1,1 @@
+# Python Program to Check Prime Number(প্রাইম+মৌলিক সংখ্যা ba নম্বর চেক করার জন্য পাইথন প্রোগ্রাম)
